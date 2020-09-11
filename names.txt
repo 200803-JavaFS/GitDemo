@@ -9,5 +9,9 @@ LizaMarie
 Rukiye Eziz
 =======
 Elizabeth Sites
+<<<<<<< HEAD
 =======
 Claudia Yllanes
+=======
+Laura Villarreal
+=======
