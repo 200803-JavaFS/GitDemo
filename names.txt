@@ -1,3 +1,12 @@
 Tim Gattie
+<<<<<<< HEAD
+Jane HuangD
+
+LizaMarie
+Rukiye Eziz
 Elizabeth Sites
 Olivia Raymond
+=======
+>>>>>>> 222d0cbddc8ecfe1a64c3ba84d37f4e4833bfc8d
+>>>>>>> 56453873a18cd91c976332b82ce85bfa74bce916
+>>>>>>> 38986dc3663f0829a937ea65a75eede03577d994
