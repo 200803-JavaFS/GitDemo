@@ -1,17 +1,18 @@
 Tim Gattie
-<<<<<<< HEAD
+=======
 Jane Huang
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
+Lev
+=======
 LizaMarie
 =======
 Rukiye Eziz
->>>>>>> 5f88ff6f907178367f087341ad067ee4a80f598a
 =======
 Elizabeth Sites
+<<<<<<< HEAD
 >>>>>>> 222d0cbddc8ecfe1a64c3ba84d37f4e4833bfc8d
 >>>>>>> 56453873a18cd91c976332b82ce85bfa74bce916
 Laura Villarreal
 
+=======
+>>>>>>> 0854f3cc75bdd7cbbd0f71884d4c88154eaba4b6
